@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Resolução Lista 1 Projetos Integrados/1.0.0": {
+        "runtime": {
+          "Resolução Lista 1 Projetos Integrados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Resolução Lista 1 Projetos Integrados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

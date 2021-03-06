@@ -1,0 +1,13 @@
+C:\Users\Victor\source\repos\Resolução Lista 1 Projetos Integrados\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.exe
+C:\Users\Victor\source\repos\Resolução Lista 1 Projetos Integrados\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.deps.json
+C:\Users\Victor\source\repos\Resolução Lista 1 Projetos Integrados\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.runtimeconfig.json
+C:\Users\Victor\source\repos\Resolução Lista 1 Projetos Integrados\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.runtimeconfig.dev.json
+C:\Users\Victor\source\repos\Resolução Lista 1 Projetos Integrados\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.dll
+C:\Users\Victor\source\repos\Resolução Lista 1 Projetos Integrados\Exercicio02\bin\Debug\netcoreapp3.1\Exercicio02.pdb
+C:\Users\Victor\source\repos\Resolução Lista 1 Projetos Integrados\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\Resolução Lista 1 Projetos Integrados\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\Resolução Lista 1 Projetos Integrados\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.AssemblyInfo.cs
+C:\Users\Victor\source\repos\Resolução Lista 1 Projetos Integrados\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\Resolução Lista 1 Projetos Integrados\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.dll
+C:\Users\Victor\source\repos\Resolução Lista 1 Projetos Integrados\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.pdb
+C:\Users\Victor\source\repos\Resolução Lista 1 Projetos Integrados\Exercicio02\obj\Debug\netcoreapp3.1\Exercicio02.genruntimeconfig.cache
